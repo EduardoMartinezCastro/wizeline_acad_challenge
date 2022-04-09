@@ -3,7 +3,7 @@ This is the repo for saving the challenge submission for the Go Bootcamp from Wi
 
 # Setup
 To run this project you need:
-- Nodejs(v0.10.0 or newer)
+- Nodejs(v12.13.0 or newer)
 - npm
 
 After setting up these tools, you need to run the following command inside the project folder:
